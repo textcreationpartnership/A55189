@@ -1,0 +1,400 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The character of a good army &amp;c. being a few hints touching the gallantry and fidelity of an army in the late wars who gave the sole honour and glory of all their atchievments [sic] to God alone, whom they exalted daily in these self-denying expressions / written by Capt. Tho. Plunket.</title>
+            <author>Plunket, Thomas, b. 1625.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 54 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55189</idno>
+            <idno type="STC">Wing P2628A</idno>
+            <idno type="STC">ESTC R28444</idno>
+            <idno type="EEBO-CITATION">10594941</idno>
+            <idno type="OCLC">ocm 10594941</idno>
+            <idno type="VID">45334</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55189)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45334)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1408:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The character of a good army &amp;c. being a few hints touching the gallantry and fidelity of an army in the late wars who gave the sole honour and glory of all their atchievments [sic] to God alone, whom they exalted daily in these self-denying expressions / written by Capt. Tho. Plunket.</title>
+                  <author>Plunket, Thomas, b. 1625.</author>
+               </titleStmt>
+               <extent>24 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>War --  Religious aspects.</term>
+               <term>War --  Moral and ethical aspects.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Graham Hukill</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Graham Hukill</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45334:1"/>
+            <p>THE CHARACTER OF A GOOD ARMY, <hi>&amp;c.</hi> BEING A few Hints touching the <hi>Gallantry</hi> and <hi>Fidelity</hi> of an ARMY in the <hi>Late Wars;</hi> Who gave the ſole Honour and Glo<g ref="char:EOLhyphen"/>ry of all their Atchievments to God alone; whom they exalted daily in theſe Self-denying Expreſſions;
+<q>Non nobis, Domine, non nobis, ſed Nomini tuo da Gloriam; <hi>And,</hi> Abſque Deo nihil poſſumus.</q>
+            </p>
+            <p>Written by Capt. <hi>Tho. Plunket;</hi> who was him<g ref="char:EOLhyphen"/>ſelf in that Army from firſt to laſt.</p>
+            <q>
+               <bibl>
+                  <hi>Exod. 15.3.</hi>
+               </bibl> The Lord is a Man of War.—<bibl>
+                  <hi>Pſal. 24.8.</hi>
+               </bibl> The Lord ſtrong and mighty; the Lord mighty in Battel.— <bibl>
+                  <hi>Dan. 2.21,</hi>
+               </bibl> He changeth the Times and the Seaſons; he removeth Kings, and ſetteth up Kings.—<bibl>
+                  <hi>Pſal-33.16.</hi>
+               </bibl> There is no King ſaved by the multitude of an Hoſt.— Not by Might, not by Power; but by my Spirit, ſaith the Lord of Hoſts, <bibl>
+                  <hi>Zech. 4.6.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed in the Year 169<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:45334:2" rendition="simple:additions"/>
+            <head>TO THE Sober impartial READER: For to no other I wiſh this may come.</head>
+            <p>AS ſome may be affected with ſeveral things in this little Book, ſo other: may queſtion the Verity of ſome extraordinary Paſſages therein; con<g ref="char:EOLhyphen"/>demnning them as ſtrange Paradoxes, and therefore incredible Hyperbolical, if not phanatical Fancies. And indeed, I cannot blame them for any juſt ſcruple upon that ſcore; becauſe ſome affirmations herein, eſpecially tou<g ref="char:EOLhyphen"/>ching the wonderful Faith, <hi>&amp;c.</hi> in many Officers of that Army I treat of was never read in any Hiſtory whatever, except the Bible; nor never heard of in any Army but that, ſince the Incarnation of Chriſt. But there are ſome (if not many) yet alive, which can teſtifie to the Truth of what I have written, that ſcorn to own me in a Lie, as much as I ſcorn to write one wit<g ref="char:EOLhyphen"/>tingly; (as I hope I do;) for <hi>falſum Benedictum, eſt malum Mendacium</hi> However ſome will believe nothing, but what comports with their own Hu<g ref="char:EOLhyphen"/>mours; for whatever they conceit to be falſe, muſt be falſe, right or wrong, becauſe they conceit it; and whatever they fancy to be true, muſt needs be true, though never ſo falſe. Others again can hardly believe any thing to be true, but what they define ſhould be true; wherein they verifie the old Adage, <hi>Quod valde volumus, facile credimus,</hi> what we earneſtly deſire, we eaſily believe. But ſeeing there want not ſuch, as ſeem to cavil at, or queſtion the Veracity of ſome profound myſtical Matters in the Sacred Oracles themſelves and will own no more of them, than what their Reaſon is able to comprehend How much mort coarſely then muſt I expect to be treated, that neither can nor dare pretend to Infallibility; no, not though I were the holieſt Saint tha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ever breathed; yet many degrees ſhort of the loweſt degree of ſuch ſeraphica Separates. <hi>(Iſa. 52.11. 2 Cor. 6.17, 18.)</hi> In the mean time, 'tis me thinks a very hard caſe, that a Man muſt not, cannot write in behalf of hi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> old Friends and Fellow-Soldiers, (though moſt of them dead,) without incu<g ref="char:EOLhyphen"/>ring the high diſpleaſure of ſome, whoſe boundleſs Envy and Prejudice againſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> brave Men, can never fix a <hi>ne plus ultra!</hi> Which yet can never offend an Perſon of a martial, noble, generous Spirit; eſpecially, when there is nothin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> mentioned, tending to Miſchief, or any other Evil, that I can apprehend, from which my Thoughts and Intentions are as far, as the Tropick of <hi>Cancer</hi> 
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> from <hi>Capricorn.</hi>
+            </p>
+            <closer>
+               <signed>Facile eſt abſentem vincere, qui non repugnat:</signed>
+               <dateline>
+                  <date>
+                     <hi>April. 29. 1690.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:45334:2"/>
+            <head>The Character of a good Army, <hi>&amp;c.</hi>
+            </head>
+            <div type="introduction">
+               <head>The Introduction.</head>
+               <p>THat few in our Days war for Excellency, or who ſhould exceed each other in Vertue, (as <hi>Zenocles</hi> and <hi>Euri<g ref="char:EOLhyphen"/>pides</hi> are ſaid to have done,) I may without breach of Cha<g ref="char:EOLhyphen"/>rity affirm, ſeeing the greateſt Bulk of Mankind is de<g ref="char:EOLhyphen"/>bauched beyond all former Examples, even of all that ever preceded them; yea, they ſurpaſs the Deeds of the Wicked, <hi>(Jer. 5.28.)</hi> Nay, there's ſcarce any ſo good as they were Twenty or Thirty Years ago; and which is yet more lamentable, that the Profeſſors of the firſt Rank come ſhort of thoſe of the ſecond Rank in the former Times.</p>
+               <p>War with the Devil and our Luſts, were an holy and ne<g ref="char:EOLhyphen"/>ceſſary War indeed; and a Victory thence emergent, more glorious than all <hi>Caeſar</hi>'s and <hi>Alexander</hi>'s Conqueſts: But alas! the Contention is not <hi>now,</hi> who ſhall tranſcend in Vertue, but who ſhall excel in Vice; and from hence ariſe Strifes, Envyings, Wars, and Fightings in the World<g ref="char:punc">▪</g> 
+                  <hi>Jam. 4.1.</hi>
+               </p>
+               <p>THE Wars of moſt Earthly Monarchs have many times no other Foundation than Pride, Self-will, Tyranny, Uſurpation, and Ambition, or other vain Pretences. Nay, ſome have made War out of meer Sto<g ref="char:EOLhyphen"/>mach, Wantonneſs, and Fulneſs of all Things, until by Wars they have been (at length) made to know themſelves, and reduc'd to ſuch a Mean as to keep within the bounds of Reaſon and Moderation: And hence oame the Adage, <hi>That one Sword keeps another in the Sheath;</hi> and ſuch a check, I hope, is now intended to impede the growing Greatneſs and Tyranny of that moſt Unchriſtian <hi>Nullifidian</hi> of <hi>France: —Illud eſt non ſolum juſtum, ſed etiam neceſſarium Bellum, cum vi vis illata defenditur.</hi> (Cicero.) That is not
+<pb n="4" facs="tcp:45334:3"/>
+only a juſt, but neceſſary War, when enforcing Force is de<g ref="char:EOLhyphen"/>fended by Force. And though pure neceſſity and urgency of Affairs, are a ſufficient ground of War; yet of all other, that War is the moſt juſt and lawful, that is warranted by the Sacred Oracles.</p>
+               <p>War is nothing elſe but a ſolemn Appeal to God for Ju<g ref="char:EOLhyphen"/>ſtice, when it cannot otherwiſe be had; or when the Laws, Liberties, and Religion of a Kingdom are in danger to be overthrown, either by a foreign Enemy from abroad, or by a flagitious, treacherous, profane, and potent Adverſary at Home.</p>
+               <p>That is the moſt pernicious War, which is founded upon meer Will and Tyranny, ſpringing from a reſtleſs, miſchie<g ref="char:EOLhyphen"/>vous Deſire of ruining ſome, and of being revenged upon others, for ſome pretended Injuſtice, capital Crimes, unknown Provocations, or other ſpecious Pretences: and upon no other Grounds and Reaſons, but ſuch as theſe (ſo far as I could underſtand hitherto) proceeds the <hi>French</hi> Tyrant.</p>
+               <p>'Tis amazing to conſider, how many wicked Armies in a wicked Cauſe have proſpered (for a Time) in all Ages, a<g ref="char:EOLhyphen"/>gainſt ſuch as have been far more innocent, more juſt and righteous than themſelves every way, both in their Practi<g ref="char:EOLhyphen"/>ces and the Cauſe they fought for, the Reaſons whereof be<g ref="char:EOLhyphen"/>ing wholly abſconded from vulgar Capacities; yea, many times from the wiſeſt Men, and greateſt Politicians: For ſe<g ref="char:EOLhyphen"/>cret Things belong to God; and thoſe infernal Arms (as I may juſtly ſtile them, <hi>conſideratis conſiderandis,</hi>) have been led by ſuch Wretches, as they are themſelves; like Head, like Body; like Officers, like Souldiers; and it is a kind of Sin to ſpare ſuch Animals, ſuch Beaſts of Prey, when Provi<g ref="char:EOLhyphen"/>dence offers them to be cut off; yea, the Prophet ſaith, <hi>Curſed be he that keepeth back his Sword from Blood</hi> (Jer. 48.10.) and you know what became of King <hi>Saul</hi> for ſpa<g ref="char:EOLhyphen"/>ring <hi>Amalek.</hi> I ſuppoſe the Prophet meant the Blood of bloody, implacable, inveterate, proud Perſecutors and De<g ref="char:EOLhyphen"/>ſtroyers of God's People, as <hi>Moab</hi> was then, hinted in that Chapter of <hi>Jeremiah,</hi> and other Texts: And alſo ſuch plun<g ref="char:EOLhyphen"/>dering, maſſacring, murthering Miſcreants as the <hi>French</hi> Dragoons, and other ſuch, whether atheiſtical, mercenary, treacherous Proteſtants, (for there are ſuch Beaſts in Na<g ref="char:EOLhyphen"/>ture,)
+<pb n="5" facs="tcp:45334:3"/>
+or Jeſuitical Papiſts; and ſuch crafty wicked Foxes muſt in our days be attacked with great Care and Circum<g ref="char:EOLhyphen"/>ſpection.</p>
+               <p>Againſt an Enemy in War, diſcreet delays are commen<g ref="char:EOLhyphen"/>dable, when Neceſſity and Reaſon require it; otherwiſe, delays are very dangerous and fooliſh, eſpecially when there<g ref="char:EOLhyphen"/>by a fair Opportunity is loſt of doing ſomewhat upon, or gaining ſome Advantage againſt the Adverſary: And this kind of Cunctation, may proceed ſometimes, either from Treachery or Cowardize in the chief Leaders or ſome of them; ſometimes, through the prepoſterous, irregular Conduct of ignorant, unexperienced Commanders; ſome<g ref="char:EOLhyphen"/>times again through Infatuation, as a juſt Judgment of God, for Reaſons beſt known to himſelf: And perhaps, one Reaſon may be, either becauſe the chief Commander or Comman<g ref="char:EOLhyphen"/>ders depend ſolely and wholly upon their own Skill, Policy, Courage and Conduct for a Victory, excluſive of Divine Aſſiſtance, or upon the Number or Valour of their Sol<g ref="char:EOLhyphen"/>diers, or both; yea, many great Armies have been over<g ref="char:EOLhyphen"/>thrown meerly upon this Account; that is, in truſting more to themſelves than in the help of God: And he tells us plainly by the Mouth of his Prophet, that they are accurſed which truſt in the ſtrength and numbers of Men;— <hi>Curſed be he that truſteth in Man, and maketh Fleſh his Arm,</hi> &amp;c. Jer. 17.5, 6, 7, 8.</p>
+               <p>Such Commanders have been always cenſured, either for Traitors, Fools, or Cowards, that declined fighting the Ene<g ref="char:EOLhyphen"/>my, when an Opportunity, joined with a probability of gaining a Victory has been offered them. No valiant Com<g ref="char:EOLhyphen"/>mander (truſting in God) was ever yet in love with de<g ref="char:EOLhyphen"/>lays; his Faith and Hope in the Lord of Hoſts making him as bold as a Lyon; therefore rather delights in down-right Blows, than wandring in the devious Paths of intri<g ref="char:EOLhyphen"/>cate, impracticable Policy; or ranging in the untrodden, un<g ref="char:EOLhyphen"/>certain Mazes of groundleſs, ineffectual, procraſtinating Counſels, eſpecially when neceſſity and urgency of Affairs call for Celerity and Expedition.</p>
+               <p>I knew a great Commander in the late Wars, that ſuffered much in his Reputation among the older and wiſer ſort of Captains, for his dull and ſlow Methods againſt the Adver<g ref="char:EOLhyphen"/>ſary,
+<pb n="6" facs="tcp:45334:4"/>
+at ſeveral Places, where he had been entrapp'd and be<g ref="char:EOLhyphen"/>fool'd by them; and though he had the good luck to eſcape with his Brigade without Deſtruction, yet not without loſs and ſhame enough ſometimes: And for all this, to give him his due, he was inferiour to none for perſonal Valour. But becauſe his Conduct (as I ſaid) and manner of ordering Mat<g ref="char:EOLhyphen"/>ters, when near, or in ſight of the Enemy, was ſo remiſs, cold, careleſs, heavy-headed, and himſelf always inapprehen<g ref="char:EOLhyphen"/>ſive of imminent Danger, when there was a real Cauſe to be very ſolicitous, and highly concerned, (and I could name where, and when that was,) made divers old Officers ſay, they did not care to go with him, upon any Service, againſt a potent Enemy.</p>
+               <p>
+                  <hi>Oliver Cromwel,</hi> though a wiſe and wary General, yet he could never away with Cunctation, always impatient of delays, eſpecially when in ſight of the Adverſary; believing and knowing by Experience, that Celerity effected more than Force it ſelf ſometimes; and he never failed of Victory, up Hill or down Hill, few or many; no, nor was ſcarcely ever foiled in his greateſt and and moſt dangerous Under<g ref="char:EOLhyphen"/>takings, having Ways and Methods of fighting peculiar to himſelf; in many things, contrary to the Courſes and Coun<g ref="char:EOLhyphen"/>ſels of other Generals, whereof his ſtrong Faith and invin<g ref="char:EOLhyphen"/>cible Courage were the principal: As to the firſt, it was very ſtrange to all Men, and his Army themſelves, that the day before the Battle at <hi>Worceſter,</hi> he commanded ſeveral Par<g ref="char:EOLhyphen"/>ties of Horſe to ſeveral Bridges and Paſſes, whither he ſup<g ref="char:EOLhyphen"/>poſed his flying Enemies would run to eſcape him the next day, and where they were ſtopp'd, and taken by the ſaid Parties in Front, and others in the Reer, as if he had been ſure of the Victory before-hand, as it ſeems he was indeed; nay, he ſaid as much to many Officers of his Army, that very Morning before he began to fight. And would often cry out, <hi>Oh! if we had but Faith, theſe Men would be but Bread for us,</hi> meaning the Adverſary. Yea, a day or two before <hi>Preſton</hi>-Fight in <hi>Lancaſhire,</hi> in <hi>Aug.</hi> 1648. he ordered the Lord <hi>Grey,</hi> and Captain <hi>Widmerpool</hi> with their Troops, to watch the <hi>Northern</hi> Roads of <hi>Cheſhire</hi> and <hi>Staffordſhire,</hi> conjecturing the <hi>Scottiſh</hi> Horſe would run that Way when he had routed them, whereof he made no doubt, (though
+<pb n="7" facs="tcp:45334:4"/>
+he had but 8000 againſt their 28000, as they themſelves gave out,) and ſo it came to paſs accordingly; for at <hi>
+                     <g ref="char:V">Ʋ</g>t<g ref="char:EOLhyphen"/>toxater</hi> in <hi>Staffordſhire,</hi> the ſaid Lord <hi>Grey</hi> met, fought with, and routed Duke <hi>Hamilton</hi>'s Body of Horſe, and took himſelf Priſoner, with many more.</p>
+               <p>His conſtant manner was, before he entred upon Action, firſt earneſtly to implore the direction, and help of God in Prayer, with all his Officers; then to deliberate, and when once reſolved how to proceed, and what to do, he fell on like a ſtorm of Hail, and clap of Thunder, through thick and thin, Horſe and Foot, though his Enemy out-numbered him never ſo much: Yea, his Charges were ſo fierce and fu<g ref="char:EOLhyphen"/>rious, that the Devil could not ſtop him, as Prince <hi>Rupert,</hi> and others uſed to ſay of him, (and which he knew, and felt many times by woeful Experience,) ſo that he carried all before him, and to be ſure, made room where-ever he came: But I fear Envy will peck at me for ſaying this little of my renowned General; yet I muſt ſay a little more of him, and his Army too. I muſt confeſs, I ever hated and ſcor<g ref="char:EOLhyphen"/>ned to trample upon the Aſhes of any valiant Man or Men, be otherwiſe what they will, yea, though Enemies; which rather becomes Men of baſe, low, ſordid Spirits, than ge<g ref="char:EOLhyphen"/>nerous Souls, who ſcorn and abhor ſuch dirty, ſneaking, pitiful ways of degrading<g ref="char:punc">▪</g> and vilifying Perſons of Honour and Worth; who (with me) will honour the Memory of a brave and noble Enemy, as well as of a worthy Friend. I ever loved a Soldier as a Soldier, as I have been my ſelf: In the mean time, take notice that I meddle not with the grounds of Quarrels, nor the Cauſe contended for in thoſe days.</p>
+               <p>When <hi>Ireland</hi> was all loſt from the Parliament, and in the Power of the adverſe Party, in the year 1649. only <hi>Dublin</hi> and <hi>London-Derry</hi> excepted; yet that brave <hi>Oliver,</hi> landing there only with 10000 Men, did great things in few weeks, and great Wonders in few months, in ſetting all Friends and Proteſtants at liberty, and free'd them from all fears of Enemies in a very ſhort time: Now this being only matter of Hiſtory, methinks none ſhould be offended at it, ſeeing it is nothing but the Truth. And you know 'tis alone with God to ſave by few, as by many, 1 <hi>Sam.</hi> 14.6. 2 <hi>Chron.</hi> 14.11. For <hi>there is no
+<pb n="8" facs="tcp:45334:5"/>
+King ſaved by the multitude of an Hoſt,</hi> Pſal. 33.16, 17. And that's the ſtrongeſt ſide where God is, be they never ſo few, <hi>Experientia docet.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Now for his Army.</head>
+               <p>And ſuch an Army, as never was the like in all the World, for all Vertues, I dare ſwear it: They were always true and faithful to their Truſt, and as valiant upon all Ad<g ref="char:EOLhyphen"/>ventures; let the Service be never ſo difficult or dangerous, they made nothing of it. They did not ſay, Go you, and go you; no, but come Lads, let us on, on, on, in the Name of the Lord of Hoſts: And in truth, they went on to a Bat<g ref="char:EOLhyphen"/>tle, yea, to many Battles, and Attacks, as if to a Banquet; and calling upon God, while their Enemies were curſing and damning, (which is ſtill in faſhion.) When they went to ſtorm any great Town or City, they were not in the leaſt concerned; but fell on with ſuch alacrity and live<g ref="char:EOLhyphen"/>lineſs of Mind, as if they had been ſure to conquer before<g ref="char:EOLhyphen"/>hand. Many Cities, Towns, Forts, and Caſtles they took by pure Valour, with very little, or no loſs at all ſometimes; nay, their very Enemies, would ſay of them (and they ſaid true) that they made but a Play and Sport of Fighting: Yea, the ſobereſt of them have ſaid of that Army, <hi>That they ſhould never beat them, unleſs God would ſtand Neu<g ref="char:EOLhyphen"/>ter;</hi> and you know what that implies. They never lay ſtill in Summer, nor ſneak'd into Winter-Quarters, while there was an Enemy in the Field, or a conſiderable Garriſon untaken, ſcorning to lie ſtill, and take Pay for nothing; no, but were often upon Service, even in the deep of Win<g ref="char:EOLhyphen"/>ter; not ſeeking to lengthen out the War for their own private ends, but very earneſt to put an end thereto, which is never found in mercenary Armies, who uſe to ſay,—<hi>If we catch the Hare this Summer, we ſhall have none to hunt the next.</hi>
+               </p>
+               <p>The Commiſſion Officers of that Army, were ſober, chaſte, temperate, religious Men, free from all ſorts of De<g ref="char:EOLhyphen"/>baucheries, kind to their Soldiers, very juſt in paying them, and as ſevere in puniſhing Miſdemeanors, whereby they were both beloved and feared; very punctual and diſcreet
+<pb n="9" facs="tcp:45334:5"/>
+in compoſing Differences between their Soldiers and Land-Lords, <hi>&amp;c.</hi> there was neither Plundering, Curſing, Swea<g ref="char:EOLhyphen"/>ring, Whoring, Drunkenneſs, nor any ſuch Vices to be found amongſt them. Moſt of their Soldiers, if not all of them, were civiller, and ſoberer in all their Carriages and Beha<g ref="char:EOLhyphen"/>vior, than the Officers of other Armies; a great rarity, ne<g ref="char:EOLhyphen"/>ver the like ſeen in any Army but that alone, nor, I think, never will be again. They were exerciſed moſt commonly on Muſter-days; and in handling Arms, they were ſecond to no Army that ever was; moſt of their Captains being very expert in ſuch Matters, many of them having been Members of the famous Military Company of <hi>London,</hi> where they learnt the firſt Rudiments of War. They never ſtood upon Numbers againſt an Enemy; but whether few or many, 'twas all one to them in their greateſt Attempts: For as in Oral Diſputes, it is not Numbers, but ſtrength of Arguments that prevail againſt the Opponents; ſo in War<g ref="char:EOLhyphen"/>like Diſputes, it is not numbers of Men, but the force of Courage and Reſolution in a few, that prevails againſt a nu<g ref="char:EOLhyphen"/>merous potent Enemy, whereof they had many Experien<g ref="char:EOLhyphen"/>ces; as for inſtance, at <hi>Dunbar</hi> Fight, there was but 5000 of them fought, and routed almoſt 30000 in half an hour's time, and all the way up-hill; though now they, and ſuch as they are ſcorned, and not thought worthy to be employ'd, becauſe they cannot pronounce <hi>Shibboleth, (Judg.</hi> 12.6.) nor ſay, Crows are white; which they will never do, while they continue to black as they are. <hi>Verbum ſat.</hi>
+               </p>
+               <q>Rebus in adverſis animum ſubmittere noli.</q>
+               <p>In the Month of <hi>June,</hi> 1657. 400<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of that Army routed 16000 near <hi>Dunkirk,</hi> led by <hi>Don John</hi> of <hi>Auſtria,</hi> and the D. of <hi>Y.</hi> while the <hi>French Horſe</hi> (which ſhould have ſecon<g ref="char:EOLhyphen"/>ded them) looked on, and never ſtirred till the <hi>Spaniſh</hi> Army fled, and then (O brave, then!) they cried, <hi>Sa, Sa, Sa, Sa!</hi> for they are very valiant againſt a Flying Enemy.</p>
+               <p>Every Regiment had an able ſound Preacher for their Chaplain; ſo that every day in the Week, while they lay encamped, there was a Sermon or two to be heard, and al<g ref="char:EOLhyphen"/>ways thronged with Officers and Soldiers, beſides private
+<pb n="10" facs="tcp:45334:6"/>
+Prayers in the Tents of divers Colonels and Captains among themſelves; and which was their practice all along: And therefore I can truly ſay, That no City or Corporation in the World could match them in all things, eſpecially for Civility and Piety: Yea, they conquered more with their Prayers, than with their Swords; I ſay, the weight of their Faith and Prayers were heavier than the ſtrength of their Arms, in repreſſing their Adverſaries: They pray'd them down, as well as fought them down. <hi>Not by might, nor by power, but by the Spirit of the Lord of Hoſts,</hi> Zech. 4.6. But ſome (I know before-hand) will make a mock to this, or they have loſt their old wont; and no wonder, ſince Clergy-men have done the like, even at Scripture-Phraſes, and ſo they will at what I ſhall now deliver, <hi>viz.</hi>
+               </p>
+               <p>In <hi>Auguſt,</hi> 1650. not long before <hi>Dunbar</hi>-Fight, the then Governor of <hi>Edinborough</hi>-Caſtle, <hi>(viz,</hi> the Laird <hi>Dun<g ref="char:EOLhyphen"/>daſs)</hi> a ſober Gentleman, hearing of, and alſo beholding and obſerving with his Proſpective-Glaſs, the Order and Religi<g ref="char:EOLhyphen"/>ous Exerciſes of that Army, as they lay encamped on a place called <hi>Penthland-Hills,</hi> about a mile from the ſaid Caſtle, was ſo affected therewith, that he cried out to thoſe about him, <hi>Oh! there's no prevailing against a praying Army,</hi> And for my own particular part, I can, and muſt declare, that I learnt more good in that Army, than ever I did in all my Life before; yea, many bleſs'd God that ever they came into it, for the ſame Reaſons; for it was a Nurſery of good Manners, and a Seminary of Vertue and Piety; in both which, I am ſure, they tranſcended both the Univerſities, for all they ſtile themſelves the <hi>Two Great Lights of England:</hi> But methinks their Lights are grown very dim of late Years, or how comes it to paſs that there is ſo much of the works of Darkneſs practiſed among them, <hi>viz.</hi> Vice and Wickedneſs? eſpecially in the junior ſort, which ought to be inſpected by their Seniors, and would be, had they the true Light of the Grace and Spirit of God within them.</p>
+               <p>Hundreds of Soldiers have at leaſt been civilized, only by being in that Army, which before were rude Fellows, as many of them confeſt, and chiefly through the good Ex<g ref="char:EOLhyphen"/>amples and Encouragements of their ſober religious Offi<g ref="char:EOLhyphen"/>cers.</p>
+               <p>
+                  <pb n="11" facs="tcp:45334:6"/>In the Year 1652. that Army made a free and voluntary Collection among themſelves, both Officers and Soldiers, towards the encouragement of Miniſters, to Preach the Go<g ref="char:EOLhyphen"/>ſpel to the Natives in <hi>New-England,</hi> which amounted to many Hundreds of Pounds, if not ſome Thouſands; the leaſt that any Soldier gave in our Regiment, was 2 <hi>s.</hi> ma<g ref="char:EOLhyphen"/>ny of them gave 3 <hi>s.</hi> and 5 <hi>s.</hi> a man. The Company where<g ref="char:EOLhyphen"/>in I was then a Lieutenant, gave, with their Officers, 25 <hi>l.</hi>
+15 <hi>s.</hi> and 6 <hi>d.</hi> By which you may gueſs at the reſt. Such a great and noble Donative, eſpecially for ſuch noble and pious Ends, I never read nor heard of in any Army but that: No, no, other Armies have other and better ways to diſpoſe of their Moneys, than to ſuch vain Phanatical ends, eſpecially their Officers, for, there muſt go <hi>tantum per menſem</hi> to the winking Whore; <hi>tantum per menſem</hi> to the teeming Whore; <hi>tantum per menſem</hi> to the fineſt Whore; and many other <hi>Tantums</hi> and <hi>Items,</hi> to keep the <hi>Kids</hi> abroad in <hi>Terra incognita,</hi> &amp;c. O rare Faggot-mon<g ref="char:EOLhyphen"/>gers! who in their way of Trading, ſurpaſs the <hi>Brown Devil of Abbington.</hi>
+               </p>
+               <p>I can take it upon my Oath, that I never knew, nor never heard of any Commiſſion-Officer in <hi>Oliver</hi>'s (wherein I was fifteen years, and before that, four years in the Wars in <hi>Ireland</hi> and <hi>England</hi>) that was in the leaſt guilty of Whoredom; no, nor ſo much as ſuſpected, except Lieute<g ref="char:EOLhyphen"/>nant <hi>W</hi>— of our Regiment; though nothing of that kind was ever proved againſt him, being only matter of Suſpicion, proceeding from ſome joking talkative Soldi<g ref="char:EOLhyphen"/>ers; and though this was all, yet it hindred his Preferment all along; for he never was Captain wh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le <hi>Goffe</hi> and <hi>Morley</hi> were Colonels, and that was till the Reſtitution of <hi>Charles</hi> the Second.</p>
+               <p>God always ſides with the beſt, though feweſt in num<g ref="char:EOLhyphen"/>ber; for, ſeeing <hi>the World loves its own,</hi> (Joh, 15.18, 19) and hates ſuch in whom there is any thing of God; and not only ſo, but joyn hand in hand againſt them, ſeeking their ruine if poſſible; (for, <hi>Pares cum Paribus facile congregantur;</hi>) ſo, God, by a parity of Reaſon, muſt needs love his own People too, as he doth indeed; yea, many degrees above what the World can do theirs. And though
+<pb n="12" facs="tcp:45334:7"/>
+that little Army (little comparatively) was ſcorned, de<g ref="char:EOLhyphen"/>ſpiſed and hated of the world, and are ſtill; yet in ſpight of the world, <hi>their Bow abode in ſtrength, and the Arms of their hands were made ſtrong by the hands of the mighty God of</hi> Jacob; becauſe they ſought him earneſtly, fre<g ref="char:EOLhyphen"/>quently, fervently, and conſtantly, all along, (till they were betraid at laſt by —) truſting more in the Lord of Hoſts, than in their own ſtrength, valour, and policy; to which I was an Eye-witneſs many years; and <hi>(plus valet unus oculatus teſtis, quam mille auriti;)</hi> and the Words, <hi>Abſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Deo nihil poſſumus,</hi> were always in their mouths, and their conſtant Motto, and ever ſhall be mine; for, without the help of God, the greateſt Army in the world can do nothing, though they have the beſt cauſe in the world; no, not againſt a deſpicable Enemy.</p>
+               <p>
+                  <hi>England</hi> is owing to that Army, or part of them, (next under God) for the noble and profitable Iſland of <hi>Jamai<g ref="char:EOLhyphen"/>ca,</hi> &amp;c. though even ſuch as grow rich by trading there, can ſcarce give them one good word for their pains, and loſs of their Lives; Monſtrous Ingratitude! <hi>Ingratus qui be<g ref="char:EOLhyphen"/>neficium accepiſſe ſe negat, quod accepit.</hi> Yea, <hi>Ingratus qui id diſſimulat,</hi> &amp;c.</p>
+               <p>The Impunity of wicked, bold, preſumptuous Soldi<g ref="char:EOLhyphen"/>ers in an Army, muſt needs be highly offenſive to God, who will certainly require it at the hands of their Officers another day (perhaps in the day of Battel,) who had pow<g ref="char:EOLhyphen"/>er to puniſh, and reſtrain their Vices, but did not: But, alas! How can they puniſh Soldiers for that whereof them<g ref="char:EOLhyphen"/>ſelves are guilty, and perhaps in a higher degree? If one ſingle Sin, of one <hi>Achan,</hi> brought down the wrath of God upon the whole Army of <hi>Iſrael,</hi> and was the cauſe of that ſhameful Rout near <hi>Ai, (Joſh.</hi> 7.) then ſurely ſuch impu<g ref="char:EOLhyphen"/>dent monſtrous Sinnings, both for quantity and quality, now perpetrated in the very face of Heaven, as it were in defiance thereof, and eſpecially upon the Lord's Days, and that, by many thouſands of <hi>Achans,</hi> Young and Old, Males and Females, of all Degrees and Qualities, in Army, City, Town, Court, and Countrey, will, I fear, make not only a Rout, but a Rent amongſt us, a Rending and Tearing in-pieces, by ſome heavy ſtroke of the impending juſt Judg<g ref="char:EOLhyphen"/>ments
+<pb n="13" facs="tcp:45334:7"/>
+of the righteous God. I ſay, the remiſneſs of Magi<g ref="char:EOLhyphen"/>ſtrates, as well as neglects of the Army-Officers, not puniſh<g ref="char:EOLhyphen"/>ing, but rather, in a maner tolerating all ſorts of iniquity, will be accounted for at the great day, to be ſure; but few of them think of that Day in earneſt: Yea, they <hi>put the evil day far off, i. e.</hi> a day of trouble and miſery in this Life; eſpe<g ref="char:EOLhyphen"/>cially ſuch as <hi>drink wine in Bowls, but are not grieved for the afflictions of</hi> Joſeph, <hi>Amos</hi> 6.3, 4, 5, 6, 7, <hi>&amp;c.</hi> the poor diſtreſſed Proteſtants in <hi>Ireland.</hi> &amp;c. And now is the time, and has been for many years laſt paſt, that he that <hi>departs from evil,</hi> any Vice or Wickedneſs, <hi>maketh him<g ref="char:EOLhyphen"/>ſelf a prey,</hi> Iſa 59.15. For the wicked ſtill, ſtill, <hi>walk on on every ſide;</hi> and one reaſon of it you have in <hi>Pſal.</hi> 12.8. Things were not thus, neither in Army, City, nor Coun<g ref="char:EOLhyphen"/>trey, in the days of yore; no, becauſe the Officers of the one, and the Magiſtrates of the other, had a zeal for God, and a zeal againſt whatever was offenſive to God; and ſuch a zeal now would (I am ſure) be accounted Phanati<g ref="char:EOLhyphen"/>ciſm, by many who think themſelves better Chriſtians than any they are pleaſed to ſtile <hi>Phanaticks:</hi> Yea, by ſome in holy Orders (as they call it;) for many of that Tribe have found fault with ſuch kind of Auſterities (as they term puniſhing Vice,) leſt their dear <hi>Dalilahs</hi> ſhould be diſcovered, and themſelves expoſed: Mean time, the periſhing world <hi>lies in wickedneſs,</hi> like a dead Dog in a Ditch; but God will <hi>be known by his Judgments</hi> amongſt them, in a ſhort time; and which is worſe, they <hi>ſhall be turned into Hell, and all that forget God. Ariſe, O Lord, let not man prevail; let the wicked be judged in thy ſight; Put them in fear, O Lord, that the Nations may know themſelves to be but men,</hi> Pſal. 9.16, 17, 18, 19, 20. Yea, <hi>let them know, that thou, whoſe Name alone is</hi> Jeho<g ref="char:EOLhyphen"/>vah, <hi>art the moſt High over all the Earth,</hi> Pſal. 83.18.</p>
+               <p>As Chriſt hath purchaſed all Good for ſome, and ſome Good for all; ſo, all ought to lay out their beſt endeavours towards the advancement of his Cauſe, Goſpel, Intereſt, and Glory in this world, according to their power. And if the former of theſe did not in a ſpecial manner make it their main buſineſs, while in the world, they ſhould walk very unworthy of ſuch great Favours as the holy
+<pb n="14" facs="tcp:45334:8"/>
+Jeſus hath purchas'd for them in both worlds: But certain<g ref="char:EOLhyphen"/>ly they are not, they cannot be ſo brutiſh, as to neglect, or ſlight over ſo great, ſo neceſſary a Duty.</p>
+               <p>Now, if I ſhould affirm, that the chiefeſt Ends and Aims of the Old Army, eſpecially of ſuch as had the chief Conduct thereof, tended to the ſame purpoſes, I doubt many would be very angry, and perhaps be ſo much tranſported with envy, as to judge it a capital crime in me, for aſſerting it, and worthy of puniſhment: but I can, I will, and muſt affirm it, come what will come; becauſe it is nothing but what I know to be Truth: Though I deny not, but they had their failings and imperfections as well as other Chriſtians; for otherwiſe, they would be more than Men; and yet they were ſomething more than meer men; but as much as could be rationally expected from men, for the Ends aforeſaid, was really intended by them, in their ſeveral Capacities, yet never was any Army in this world, more hated of the world than they were, and are ſtill, be<g ref="char:EOLhyphen"/>cauſe they were not like the world, <hi>in rioting and drun<g ref="char:EOLhyphen"/>kenneſs, in chambering and wantonneſs,</hi> &amp;c. <hi>Rom.</hi> 13.13. yea, curſt them, becauſe they would not eat and drink themſelves to death, as they did.</p>
+               <q>
+                  <l>—Praeſens malejudicat aetas,</l>
+                  <l>Judicium melius poſteritatis erit.</l>
+               </q>
+               <p>Although many of this Age ſcorn and vilifie that re<g ref="char:EOLhyphen"/>nowned Army, yet I am perſuaded their Succeſſors will think and ſpeak more favourably of them; in whoſe be<g ref="char:EOLhyphen"/>half and commendation I could write much more, but I ſhould thereby offend the prejudicated Reader, as I have in what hath been ſaid already; therefore I ſhall add but little more my ſelf, and that in the cloſe of this Book, re<g ref="char:EOLhyphen"/>ferring you in the mean time to the peruſal of the follow<g ref="char:EOLhyphen"/>ing Account and Character given of them, by an eminent Miniſter, one of the Chaplains belonging to General <hi>Fair<g ref="char:EOLhyphen"/>fax</hi> in thoſe days, which he Publiſhed about the time of <hi>Oxford-Siege,</hi> 1646, which is now Forty three years the laſt <hi>June:</hi> And becauſe it is quite loſt and forgot; and I having it by me, in Print, could not be quiet till I gave it a
+<pb n="15" facs="tcp:45334:8"/>
+ſecond Birth, or once again expoſe it to publick view; on<g ref="char:EOLhyphen"/>ly I muſt ſuperſede divers Words, Sentences, and ſeveral Lines therein, fearing the Times will not bear them; for, I would be cautious in giving offence, eſpecially to thoſe in Authority; believing, that it is beneath their Wiſdom and Grandeur, the Eminency and Sublimity of their Stations, to ſtoop ſo low, as to be concern'd or offended with ſuch a harmleſs, <hi>Nude Narrative</hi> as this is; reflecting neither upon their Perſons or Proceedings, which hitherto have been juſt and honourable. And as I have not writ theſe things without caution; ſo ſhall I not mention my Ru<g ref="char:EOLhyphen"/>lers without Reverence, at any time, as occaſion ſerves.</p>
+               <q>
+                  <l>Vivant Rex &amp; Regina.</l>
+                  <l>
+                     <hi>TETRASTICHON</hi>
+                  </l>
+                  <l>
+                     <hi>De Rege.</hi>
+                  </l>
+                  <l>Lex ſine Rege, velut Lumen ſine Sole fuiſſet;</l>
+                  <l>Rex ſine Lege, velut Sol ſine Luce foret.</l>
+                  <l>Grex Regem primo legit, Rex cum Grege Legem</l>
+                  <l>Condidit; hinc Legem Rex regit, at<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Gregem.</l>
+               </q>
+            </div>
+            <div type="part">
+               <head>And this following is the Character which the aforeſaid Miniſter gives of that Army.</head>
+               <p>I Find my Heart ſtirred within me, to teſtifie to the world what I know in mine own experience (ſaith he) touching the Army under the Command of that worthy and faithful General, Sir <hi>Thomas Fairfax;</hi> and that, be<g ref="char:EOLhyphen"/>cauſe I am not ignorant of the great Undervaluings, Deſpi<g ref="char:EOLhyphen"/>ſings and Reproachings of it, by many, even of thoſe whoſe Blood runs warm in their Veins, and who enjoy all the Comforts they have in the world, through the Faithfulneſs, Diligence, Activity, Labours, Hunger, Thirſt, Cold, Wearineſs, Watchings, Marchings, Engagements, Storm<g ref="char:EOLhyphen"/>ings, Wounds, and Blood of theſe Men, Inſtruments of God's own chuſing, and calling forth to his foot, for great Services, which after-ages will wonder and ſtand amazed at, as well as at the vile Ingratitude of this Age, to ſuch
+<pb n="16" facs="tcp:45334:9"/>
+Inſtruments as theſe, for which God will not hold it guiltleſs. This then, for mine own part I am moſt confident of, that there are as many Gracious and Godly Chriſtians in that Army, as in any Gatherings together of Men in all the World again; Men, full of Faith and the Spirit, and the admirable Endowments of it. More particularly, there are theſe ſix things moſt remarkable in that deſpiſed Army.</p>
+               <p n="1">1. <hi>Their <g ref="char:V">Ʋ</g>nity:</hi> which is admirable; it being more the Unity of Chriſtians, than of Men; more an Unity in the Spirit, than in the Fleſh; in the Father and Son, than in themſelves; and this hath been one great Means of their great Succeſſes; they being all, both in Counſel and Acti<g ref="char:EOLhyphen"/>on, but as one man; they are knit up together as in one Bundle, and ſo could not be broken; but have broken all their Oppoſites. Many of their Matters of greateſt mo<g ref="char:EOLhyphen"/>ment, have been carried in Council with that Unity, that ſometimes not ſo much as one hath contradicted.</p>
+               <p n="2">2. <hi>Their Humility:</hi> which hath been admirable, as well as the former; for, after great and glorious Victories, to the wonder of the Kingdom, and of the World, when mighty men did flee apace, and the men of Valour ran a<g ref="char:EOLhyphen"/>way like Women; yet I have never heard any of the wor<g ref="char:EOLhyphen"/>thy and godly Commanders or Officers to ſay, <hi>I did this, or that;</hi> or to boaſt of his own Counſel or Valour, or to at<g ref="char:EOLhyphen"/>tribute any thing to himſelf, or any body elſe, of what God had done; but every one to ſay, <hi>This was the Lord's own doings, and it is marvellous in our eyes;</hi> and, <hi>it was not our own Sword, or Bow, but the Lord's right hand, and his Arm, and the Light of his Countenance.</hi> And they have been moſt willing to be nothing themſelves, that God might be all. And this hath been one Means to keep them humble; becauſe, though God hath been much with them, yet the World hath been much againſt them; not ſo much for their own ſakes, who were true and faithful; but for God's ſake in them; becauſe there is more of God among theſe men, than among other men.</p>
+               <p n="3">3. <hi>Their Faith:</hi> There are many in the Army, men of great and precious Faith; through which, <hi>they have wrought righteouſneſs, obtained Promiſes,</hi> &amp;c. — Through this Faith they have fought Battels, purſued their
+<pb n="17" facs="tcp:45334:9"/>
+Enemies, <hi>&amp;c.</hi> — Through Faith they have entered ſtrong Cities, <hi>&amp;c.</hi>—And I can truly and particularly ſay, (let them that will needs be offended, ſtumble and fall at it,) that <hi>Briſtol</hi> (among other Places) was con<g ref="char:EOLhyphen"/>quered by Faith, more than by Force, <hi>i. e.</hi> it was conquer<g ref="char:EOLhyphen"/>ed in their hearts, before ever they ſtretched forth their hands againſt it, <hi>&amp;c. Through Faith, one of them chaſed Ten, and Ten put an hundred to flight; and an Hundred a Thouſand:</hi> And this was performed in the very Letter of it, <hi>&amp;c.</hi>—Many more Inſtances I could relate of the power of Faith in that Army; but that I ſhould thereby grieve and afflict many too much.</p>
+               <p n="4">4. <hi>The Spirit of Prayer:</hi> And this the Lord hath pour<g ref="char:EOLhyphen"/>ed forth upon many of them in great meaſure; not only upon many of the chief Commanders, but on very many of the inferiour Officers, and Troopers; ſome of whom, I have by accident heard praying with that Faith, and Fami<g ref="char:EOLhyphen"/>liarity with God, that I have ſtood wondering at the Grace. They never undertook any thing of weight, but God was always ſought to of them again and again; and they have found God near to them in all things they have call'd upon him for; yea, God hath been found of them, while yet they have been ſeeking him, <hi>&amp;c,</hi>—</p>
+               <p n="5">5, <hi>The ſpecial Preſence of God with them.</hi> I have ſeen more of the Preſence of God in that Army, than a<g ref="char:EOLhyphen"/>mongſt any People that ever I converſed with in all my Life; for there hath been a very ſenſible Preſence of God with them; they <hi>have ſeen his goings, and obſerved his footſteps,</hi> &amp;c. <hi>[Here I skip ſeven Lines, though harm<g ref="char:EOLhyphen"/>leſs enough; but ſome can call the Fox's Ears Horns;]</hi> How often hath fearfulneſs and trembling taken hold upon the Enemy? and the ſtout men been at a loſs for their —and the men of might for their hands? <hi>&amp;c. [Three Lines more omitted.]</hi> Every Battel wherein they fought, they prevailed. <hi>[Two Lines more omitted.]</hi> becauſe God was with them; (I doubt this will be called Treaſon:) <hi>this ſhall be written for the Generations to come;</hi> but this Atheiſtical, Papiſtical Generation will not bear it; be<g ref="char:EOLhyphen"/>cauſe there is ſo much of God in it, though 43 yers ſince,) ſeeing ſo many of this preſent Generation ſo little regard it;
+<pb n="18" facs="tcp:45334:10"/>
+and the People that are to be born ſhall praiſe the Lord.</p>
+               <p n="6">6. The Sixth remarkable thing in this Army, is, <hi>Their Faithfulneſs to the State,</hi> &amp;c.—How have they gone up and down in wearineſs and labours, dangers and deaths, to do the Work? When was it that they ſate idle? Have they not as ſoon as one Battel was fought, prepared to another? as ſoon as one City was taken, advanced to another? and gone on till all be reduced; that Peace might be haſtned to the Kingdom, if it were the Will of God, and not come as a Snail, but on Eagles wings? Have they not been active all the winter long, in a moſt cold and froſty ſeaſon, that continued for two Months together? <hi>(viz.</hi> all <hi>December</hi> and <hi>January,)</hi> beating the Enemy out of the Field, and taking their ſtrong holds, when other Armies uſe to lie ſtill? [I knew ſome that came not into a Bed 14 Months together.] Have they taken the Pay of Idleneſs, or lived the Life of Luxury? Have they ſought to lengthen the War for their own advantage? Have they not made even a ſhort work? I challenge all the former Generations of the world to ſtand forth, and to ſhew ſo much work of this kind, done in ſo little time; and by all theſe Succeſſes have they ever been lifted up, as to make proud Demands? <hi>[Eight Lines more omitted here.]</hi> Nay, I declare this to all the Kingdom, that, as God hath made them glorious in doing, ſo he hath made them contented to be perfect by ſuffering, if it be the will of God. And moſt confident I am, that though ſome men for private Ends and Intereſts, are murmuring, and others ſpeaking out againſt this Army, as the perverſe <hi>Iſraelites</hi> againſt <hi>Moſes</hi> and <hi>Aaron,</hi> yet the Lord in his due time, will take away the reproach of all his People therein</p>
+               <p>This I have ſpoken in truth and ſincerity to the King<g ref="char:EOLhyphen"/>dom; and, to that Army I ſhall ſay, <hi>VVho is like unto thee, O People, ſaved by the Lord? who is the Shield of thy help, and the Sword of thine Excellency; and thine Ene<g ref="char:EOLhyphen"/>mies ſhall be found Lyars unto thee, and thou ſhalt tread upon their high places,</hi> Deut. 33.29.</p>
+               <p>This is all, except above twenty Lines omitted, for fear of offending; which yet cannot be excepted againſt as un<g ref="char:EOLhyphen"/>true; and this Character being ſuch as my ſelf (and
+<pb n="19" facs="tcp:45334:10"/>
+many more) can truly teſtifie; I cannot therefore but once again affirm, that there was never ſuch an Army in the whole World; Jew, nor Chriſtian, as that was, for all Vertues; e<g ref="char:EOLhyphen"/>ſpecially, for Juſtice, Temperance, Sobriety, Chaſtity, Humanity, Morality, and Piety. It is ſeldom that God proſ<g ref="char:EOLhyphen"/>pers a wicked debauched Army, unleſs againſt ſuch as they are themſelves; and that is, the wicked chaſtiſing the un<g ref="char:EOLhyphen"/>godly, which are as two Pitchers daſhing againſt one ano<g ref="char:EOLhyphen"/>ther, till both are broken, the Conqueror coming off ma<g ref="char:EOLhyphen"/>ny times with as great loſs as the Conquered: But very rarely doth God honour ſuch wicked Armies in doing any great good for his Church, or make them ſpecial Inſtruments in carrying on his own work in the world, directly, becauſe they are neither Spirited nor Principled for ſuch a glorious undertaking, nor in the leaſt fitted for it: No, it is the <hi>Sons of Zion</hi> that he employs chiefly and directly, next under himſelf, in the hehalf of <hi>Zion;</hi> others only by the by; ſerving as a Thorn-buſh to ſtop a gap for a while, to keep out the wild Boars and the Foxes from tearing his Vine too much, (<hi>Cant.</hi> 2.15. <hi>Pſal.</hi> 80.13) at other times, ſets them to beating of the Buſh, for his own Fowlers to catch the Birds; as the Earl of <hi>Eſſex</hi> his Army did for <hi>Fairfax</hi> his civil religious Army in thoſe days. Though God hath often for Sin, puniſh'd, and almoſt ruin'd his own people in their temporal Concerns in all Ages, by wicked men; as the <hi>Jews,</hi> by the <hi>Aſſyrians, Syrians, Philiſtians, Babylonians,</hi> and other barbarous Nations of old, in the Ten Perſecuti<g ref="char:EOLhyphen"/>ons of the Chriſtians under <hi>Rome Pagan;</hi> and many times ſince that, by <hi>Rome Papal;</hi> and now of late, the Prote<g ref="char:EOLhyphen"/>ſtants in <hi>France:</hi> But when <hi>Ephraim is againſt Manaſſes, and Manaſſes againſt Ephraim, and both againſt Judah, viz.</hi> the true Goſpel, or Scripture-reformed Church; this is ſad indeed, and a greater Argument of divine diſpleaſure againſt them, or ſome of them, than when the worſt of men are let looſe upon them; from both which Calamities I pray God deliver and keep theſe Nations; wherein may the <hi>VVolf dwell with the Lamb, the Leopard lie down with the Kid, the Lion with the Calf, and the Child play on the hole of the Aſp,</hi> &amp;c. (<hi>Iſa.</hi> 11.6, 7, 8, 9.) I ſay, God continue all ſorts of Proteſtants in peace and unity among them<g ref="char:EOLhyphen"/>ſelves,
+<pb n="20" facs="tcp:45334:11"/>
+and labour to beware of the Jeſuits dividing Princi<g ref="char:EOLhyphen"/>ples, and the Devil's divided foot, and other Incendiaries, and treacherous Dealers, <hi>viz.</hi> falſe, ſelf-ended, ſelf-intereſted Proteſtants, and Clergy-men too. I ſay, if we have not a great care of theſe Miſcreants, and keep peace and concord among our ſelves, we ſhall without a miracle, be made a prey to the common Enemy, which daily wiſheth and watcheth for an opportunity to ruine us; which they can<g ref="char:EOLhyphen"/>not do, but by dividing us.</p>
+               <p>And now the time is come at laſt, that moſt people be<g ref="char:EOLhyphen"/>gin to think of, and to know the worth of that Army, by the want of it; and would they not in theſe perilous, trea<g ref="char:EOLhyphen"/>cherous times, prize ſuch another? But their Equals in all things, are not eaſily to be found; yet God can raiſe up, and qualifie others of this preſent Age, to do his work as well as they, as I hope he will; but if they ſhould prove indeed like the old praying Army, in virtue and piety, they would be ſcorned, mocked, and abhorred of all the ſorts of wicked men: For <hi>Oliver</hi>'s Army, becauſe they could not live like Debauchees of the world in their days, nor tread in their hell<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſh ſteps, On, how were they hated of all the drunken, whoring, ſwearing, curſing damning crew of <hi>Great Bri<g ref="char:EOLhyphen"/>tain?</hi> Whoſe Rai<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ings they anſwered with ſilence and con<g ref="char:EOLhyphen"/>tempt, and paſſed by them with an honourable ſcorn. What Chriſtian knows not, that <hi>the world always hates moſt, where there is moſt of God;</hi> yea, men may give a ſhrewd gueſs where there is moſt of God, by obſerving <hi>where the greateſt hatred of the world lies.</hi> It was certainly the humi<g ref="char:EOLhyphen"/>lity of that Army in giving God the Glory of all their vi<g ref="char:EOLhyphen"/>ctories, that chiefly made them ſo ſucceſsful and invincible. Never did I hear the moſt valiant of them all, (and I am ſure moſt of them were ſo,) ſpeak one word tending to magnifie themſelves: No, but attributed all to the out<g ref="char:EOLhyphen"/>ſtretched Arm of the <hi>Lord of Hoaſts, the great God of Bat<g ref="char:EOLhyphen"/>tels,</hi> as you heard before; neither after ſo many wonder<g ref="char:EOLhyphen"/>ful Victories, did they domineer or inſult over any; no, not over their conquered Enemies; but carried ir friendly, ci<g ref="char:EOLhyphen"/>villy, and courteouſly towards all men, friends and foes, in City, Town, and Countrey; inſomuch that many thouſands, which before were their bitter Enemies, became their con<g ref="char:EOLhyphen"/>ſtant
+<pb n="21" facs="tcp:45334:11"/>
+Friends, and ſo won them to their own ſide; whereof the then Long-Parliament, <hi>&amp;c.</hi> were not a little ſenſible; while the Officers of other Armies plaid the Devil, in ſwear<g ref="char:EOLhyphen"/>ing, curſing, whoring, drinking, plundering, and abu<g ref="char:EOLhyphen"/>ſing the Countrey where ever they came, never regarding whether they were Friends or Foes; which hardned the hearts of the People againſt them; and you may be ſure, their Soldiers were not behind them in all ſorts of wicked<g ref="char:EOLhyphen"/>neſs; and how could they be otherwiſe, when they were taught to be ſo, by the evil examples of their own Com<g ref="char:EOLhyphen"/>manders.</p>
+               <p>Now ſeeing I have ſaid thus much in behalf of that re<g ref="char:EOLhyphen"/>nowned Army, it will not (I hope) offend the Reader, if I ſet down the Names of their Chief Leaders, which I have kept in memory ever ſince the new Model in the beginning of that Year of Wonders, 1645; being then in General <hi>Fairfax</hi>'s Regiment of Foot, in Captain <hi>Bland</hi>'s Company, a brave ſtout man, of a bold, daring Courage and Carriage in the face of the fierceſt Enemy; and moſt of them were ſo; who would nevertheleſs cry out ſtill, <hi>Nothing without God! Abſque Deo nihil poſſumus.</hi>
+               </p>
+               <list>
+                  <head>A True Liſt of the Chief Commanders of the Parliament's Army in the Year <hi>1645,</hi> &amp;c.</head>
+                  <item>Regiments of Horſe.
+<list>
+                        <item>Gen. <hi>Fairfax.</hi>
+                        </item>
+                        <item>Lieut. General.</item>
+                        <item>Commiſſ. General.</item>
+                        <item>Col. <hi>Fleetwood.</hi>
+                        </item>
+                        <item>Col. <hi>Roſſiter,</hi> Sir <hi>Edw,</hi>
+                        </item>
+                        <item>Col. <hi>Sheaffield.</hi>
+                        </item>
+                        <item>Col. <hi>Butler.</hi>
+                        </item>
+                        <item>Col. <hi>Rich.</hi>
+                        </item>
+                        <item>Col. <hi>Scroop.</hi>
+                        </item>
+                        <item>Col. <hi>Graves.</hi>
+                        </item>
+                        <item>Col. <hi>Pye,</hi> Sir <hi>Robert.</hi>
+                        </item>
+                        <item>Col. <hi>Disbrow.</hi> 12 Regim.</item>
+                     </list>
+                  </item>
+                  <item>Regiments of Foot.
+<list>
+                        <item>The General.</item>
+                        <item>Major Gen. <hi>Skippon.</hi>
+                        </item>
+                        <item>Col. <hi>Hareley,</hi> Sir <hi>Edw.</hi>
+                        </item>
+                        <item>Col. <hi>Rainsborough.</hi>
+                        </item>
+                        <item>Col. <hi>Montague.</hi>
+                        </item>
+                        <item>Col. <hi>Hammond.</hi>
+                        </item>
+                        <item>Col. <hi>Pickering.</hi>
+                        </item>
+                        <item>Col. <hi>Waller,</hi> Sir <hi>Hardreſs.</hi>
+                        </item>
+                        <item>Col. <hi>Weldon.</hi>
+                        </item>
+                        <item>Col. <hi>Ingoldsby.</hi>
+                        </item>
+                        <item>Col. <hi>Herbert.</hi>
+                        </item>
+                        <item>Col. <hi>Forteſcue.</hi> 12 Regim.</item>
+                     </list>
+                  </item>
+               </list>
+               <p>In each Regiment of Horſe, 600. In each of Foot, 1200. beſides all Officers. Alſo,</p>
+               <p>
+                  <pb n="22" facs="tcp:45334:12"/>Col. <hi>Okey</hi>'s Dragoons, Ten Troops, 1000 Men, beſides <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rriſons, and divers independent Troops, and Companies; but this was the Marching Army, which did ſuch wonders.</p>
+               <p>I can aſſure you, there was neither <hi>Tinker,</hi> nor <hi>Cobler</hi> a<g ref="char:EOLhyphen"/>mong all theſe, as ſome would have it. Neither did I ever know, or directly hear of any ſuch that were Commiſſion-Officers, but one or two in all that Army, and I knew moſt of them: But what if there had been twenty ſuch? I know no reaſon why they ſhould be jeer'd by their lawful Trades and Callings, eſpecially, ſo long as they were brave Fellows, as many of them have been, to my knowledge; yea, tranſ<g ref="char:EOLhyphen"/>cending both in Worth and Valour, ſome that would be thought great Gentlemen; But for all this, C <hi>Hewſon,</hi> though indeed a <hi>Shoe-maker,</hi> they will needs have to be a <hi>Cobler:</hi> ſup<g ref="char:EOLhyphen"/>poſe it were ſo; yet, where was there a ſtouter &amp; braver man in <hi>England,</hi> among the Bullets than he was? Col. <hi>Pride,</hi> a <hi>Brewer,</hi> he muſt be call'd the <hi>Dray-man;</hi> Col. <hi>Barkſted,</hi> a <hi>Goldſmith,</hi> ſtil'd only the <hi>Bodkin-maker,</hi> out of mere ma<g ref="char:EOLhyphen"/>lice; and ſo of others: If they were ſuch ſorry Fellows as they are repreſented by ſwearing Cowards, then the more ſhame it is for ſuch Hectoring Gallants to be trampled un<g ref="char:EOLhyphen"/>ner foot by them in the late Wars; during which time, though our Regiment had been in forty Battels, Fights. Skirmiſhes, Stormings, <hi>&amp;c.</hi> yet, in all of them, we loſt not above 150 Soldiers, and but three Commiſſion-Officers, <hi>viz.</hi> Enſign <hi>Morris,</hi> kill'd at <hi>Sherborn</hi>-Caſtle in <hi>Dorſet</hi>-ſhire, <hi>Aug.</hi> 1645. Capt. <hi>Hatfield,</hi> at <hi>Preſton</hi>-Fight, <hi>Aug.</hi> 164<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. and Capt. <hi>Hammond,</hi> at <hi>Edinburgh</hi>-Caſtle, <hi>Decemb.</hi> 1650. The two laſt were worthy men indeed, both as Chriſtians and Soldiers. But if People muſt needs be ſtill diſparaging valiant men, only for their Trades, and mean Extractions, pray let them read and conſider the ſubſequent Liſt; and then perhaps they will not ſo much malign ſuch of their own Countrey that get Honour by Valour, <hi>viz.</hi>
+               </p>
+               <list>
+                  <item>
+                     <hi>Agathocles,</hi> King of <hi>Sicilia,</hi> a <hi>Potter</hi>'s Son.</item>
+                  <item>
+                     <hi>Iphycrates,</hi> Athenian General, a <hi>Cobler</hi>'s Son.</item>
+                  <item>
+                     <hi>Eumenes,</hi> one of <hi>Alexander</hi>'s Generals, a <hi>Carter</hi>'s Son.</item>
+                  <item>
+                     <hi>Pertinax,</hi> Roman Emperor, a <hi>Weaver</hi>'s Son.</item>
+                  <item>
+                     <hi>Diocleſian,</hi> Rom. Emperor, a <hi>Book-binder</hi>'s Son.</item>
+                  <item>
+                     <hi>Valentinian,</hi> Rom. Emperor, a poor <hi>Rope-maker</hi>'s Son.</item>
+                  <item>
+                     <pb n="23" facs="tcp:45334:12"/>
+                     <hi>Probus,</hi> Rom. Emperor, a <hi>Gardener</hi>'s Son.</item>
+                  <item>
+                     <hi>Marcus Aurelius,</hi> Rom. Emp. a <hi>Cloth-weaver</hi>'s Son.</item>
+                  <item>
+                     <hi>Maximinus,</hi> Rom. Emperor, a <hi>Black-Smith</hi>'s Son.</item>
+                  <item>
+                     <hi>Sabienus,</hi> Rom. Emperor, a poor <hi>Shepherd</hi>'s Son.</item>
+                  <item>
+                     <hi>Brimiſlaus,</hi> King of <hi>Bohemia,</hi> a <hi>Plough-man.</hi>
+                  </item>
+                  <item>Pope <hi>Sixtus</hi> 4. a poor <hi>Sea-man's</hi> Son.</item>
+                  <item>Pope <hi>John</hi> 22. a <hi>Shoe-maker</hi>'s Son.</item>
+               </list>
+               <q>Omnis Poteſtas à Deo eſt.</q>
+               <p>You ſee now, what great things God can do for, and by mean men, as well as others; and for ought I know, blind <hi>Hewſon</hi> the <hi>Cobler,</hi> (as they will have it,) might be as good a Man as the <hi>Pope's Father:</hi> I am ſure he was a bet<g ref="char:EOLhyphen"/>ter Chriſtian than either of them, who this Year was Lieut. Col. to Col. <hi>Pickering,</hi> 1645.</p>
+               <p>To conclude, ſome are born to Honour, others ſnatch at it; ſome receive it from their Parents, others get it by their Atchievments; it runs to ſome in their Blood, others riſe to it by their Worth and Virtue, be their Parts and Abili<g ref="char:EOLhyphen"/>ties: 'Tis better to get Honour by honourable Deeds, than to buy Honour; to make our ſelves honourable, than to be made honourable: It is eaſie to inherit Honour, but hard to attain Honour, (See <hi>Caryl</hi> upon <hi>Job,</hi> p. 1373.)</p>
+               <p>He that makes Honour his chief End, his Honour will ſoon have an End. As Honour is no Bar againſt Infamy, ſo 'tis not a great Place, or Title, that makes a man Honou<g ref="char:EOLhyphen"/>rable; but the man himſelf makes the Place ſo, if vertu<g ref="char:EOLhyphen"/>ous.</p>
+               <p>Noble Extraction, without noble Qualities, is rather a Diſgrace than a Glory; for the Worth of our Progenitors is none of ours: No, 'tis our own Worth that muſt make us honourable. Then, what Abjects are they that beg and buy Titles of Honour, which other Gallants have got by Pimping? In fine, ſtrive not to get Honour, but to de<g ref="char:EOLhyphen"/>ſerve Honour; but the Courſes taken by ſome, wil never do it. Our chiefeſt Aim ſhould be to promote the Honour and Glory of God above all things; for without him we can do nothing. Thoſe <hi>that honour him, he will honour; and they that deſpiſe him, ſhall be lightly eſteemed;</hi> (1 <hi>Sam.</hi> 2.30.) As many great Men and Monarchs have been, and ſome are now, at this very day; which ſhould
+<pb n="24" facs="tcp:45334:13"/>
+Allarm others, and make them conſider what are the chief and true Ends of Government, and wherefore it is that God hath put ſuch great Power into their Hands; which if they do not exert according to his Will, he will have his Will on them, one way or other. <hi>O Jacobe!</hi>
+               </p>
+               <q>Non nobis, Domine, non nobis, ſed Nomini tuo da Gloriam.</q>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:45334:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
